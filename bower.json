@@ -1,0 +1,16 @@
+{
+  "name": "bsie",
+  "version": "2.2.2",
+  "homepage": "https://github.com/emj365/bsie",
+  "authors": [
+    "Michael JIN <emj365@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
